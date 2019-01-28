@@ -20,7 +20,7 @@ namespace GangOfFour.Singleton.Structural
       // Test for same instance
       if (s1 == s2)
       {
-        Console.WriteLine("OLes objets utilisent la même instance");
+        Console.WriteLine("OLes objets utilisent la même instance!");
       }
  
       // Wait for user
